@@ -1,0 +1,4 @@
+npm init -y
+npm install bootstrap@5.3.3
+npm install -g sass
+sass --watch ./scss/custom.scss ./css/custom.css - para compilar las customizaciones de bootstrap con sass
